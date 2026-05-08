@@ -1,0 +1,5 @@
+api_key_bot.txt
+__pycache__/
+*.py[cod]
+.env
+BOT_TOKEN
