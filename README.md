@@ -144,7 +144,7 @@ instaloader>=4.10
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author:
 
 **Mohammadreza Nouriyani**
 
